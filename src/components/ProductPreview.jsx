@@ -76,6 +76,7 @@ export const ProductPreview = () => {
         <Button
           leftIcon={<CartIcon />}
           bgColor='green.500'
+          color='white'
           mt='1rem'
           w='100%'
           h='45px'
